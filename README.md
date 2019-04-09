@@ -1,2 +1,2 @@
-# LinkedLisPrograms
+# LinkedListPrograms
 LinkedList Programs
