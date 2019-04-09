@@ -9,7 +9,7 @@ struct node
 };
 typedef struct node *NODE;
 NODE getnode();                       //Function to create a node 
-void display(NODE head);
+void display(NODE head); 
 NODE insert_front(NODE head,int);     //Function to insert a node in the begining of the list
 NODE insert_last(NODE head,int);      //Function to insert a node in at the last of list
 NODE insert_position(NODE head,int,int);    //Function to insert a node in the given position of the list
